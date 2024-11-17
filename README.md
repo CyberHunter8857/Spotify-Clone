@@ -19,17 +19,17 @@ A modern, responsive web application that emulates key functionalities of Spotif
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/spotify-clone.git
+   git clone https://github.com/CyberHunter8857/Spotify-Clone.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd spotify-clone
+   cd Spotify-Clone
    ```
 3. Open `index.html` in your web browser.
 
 ## Folder Structure
 ```
-spotify-clone/
+Spotify-Clone/
 |-- index.html
 |-- css/
 |   |-- styles.css
