@@ -2,6 +2,8 @@
 
 A modern, responsive web application that emulates key functionalities of Spotify. This project features a sleek, dark-themed user interface with playback controls, album display, and a sidebar navigation. Perfect for anyone looking to understand the basics of a music player UI or expand upon it for more advanced features.
 
+Visit [Spotify-Clone](https://spotify-clone-five-lime.vercel.app/)
+
 ## Features
 - **Sidebar Navigation**: Includes navigation options with hover animations.
 - **Main Content Area**: Displays albums, playlists, or songs with a smooth gradient background.
